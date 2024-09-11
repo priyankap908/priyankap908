@@ -8,11 +8,7 @@
 
 
 **What you will find here**
-- 📊 Projects: Explore my work in data analysis and visualization
-  - 
-  - 
-  - 
-  - 
+-
 - 🔗 Certifications: See my certifications including SQL, Advanced Excel, Tableau, and Power BI.
   -  [Google Business Intelligence](https://www.coursera.org/account/accomplishments/specialization/KH2WE8ZKAFT9)
   -  [AON Certification](https://aonhrlearningcenter.credentials.aon.com/fb8c3f21-00b3-4700-b6fa-63f12eca0cd7#gs.eg2ud3)
@@ -21,6 +17,16 @@
   -  [Tableau](https://certificates.simplicdn.net/share/5234262_1716371556.pdf)
   -  [Business Analytics with Excel](https://certificates.simplicdn.net/share/5025166_1716371907.pdf)
   -  [Power BI](https://certificates.simplicdn.net/share/6674889.pdf)
+- 📊 Projects: Explore my work in data analysis and visualization
+  - Retail Sale Analysis
+  - ScienceQtech Employee Performance Mapping
+  - Air Cargo Analysis
+  - Comparison of Region Based on Sales
+  - Crime Analysis
+  - Regional Sales Analysis
+  - Designing a Sales dashboard in Excel
+  - Predicting restaurant tips using predictive analytics on Excel
+  - Data Manipulation and Reporting with Power BI
 
 
 **How to reach me**
