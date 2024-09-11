@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @priyankap908
 - 👀 I’m interested in analysing data
+- 👀 I am passionate about transforming data into informative insights, create visualizations and understand the pattern hidden in the data
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: pandeypriyanka908@gmail.com
 - 😄 Pronouns: She/Her
